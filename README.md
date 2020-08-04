@@ -1,5 +1,4 @@
 # The-Caesar-Cipher-in-Python
-This hosts the solution of the PSet5 of the MITx: 6.00.1x Introduction to Computer Science and Programming Using Python
 
 
 Encryption is the process of obscuring information to make it unreadable without special knowledge. For centuries, people have devised schemes to encrypt messages - some better than others - but the advent of the computer and the Internet revolutionized the field. These days, it's hard not to encounter some sort of encryption, whether you are buying something online or logging into a shared computer system. Encryption lets you share information with other trusted people, without fear of disclosure.
